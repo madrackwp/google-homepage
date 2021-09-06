@@ -77,16 +77,26 @@ body footer {
   margin-left: -8px;
 }
 
+.foogle-logo{
+  max-height: 120px;
+  width: auto;
+  padding-top: 200px;
+}
 
 .footer-row-1, .footer-row-2{
   padding: 10px;
   background-color: #f2f2f2;
 }
 
+.lang-choices, .lang-choices a{
+  font-size: 14px;
+}
+
 body footer .footer-row-1 p, body footer .footer-row-2 a {
-  padding: 5px;
+  padding: 10px;
   margin: 0px;
   color: #70757a;
+  font-size: 14px;
 }
 
 body .footer-row-1 {
